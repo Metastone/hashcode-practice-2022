@@ -2,7 +2,7 @@ from hashcode_parser.parse_description import *
 from hashcode_parser.parse_hashcode_input import *
 
 
-def solve_ignore_dislikers(description_file, input_file, output_file):
+def solve_ignoring_dislikers(description_file, input_file, output_file):
     print(f'Solving input {input_file} to {output_file}... ', end='')
 
     # Parse input
