@@ -1,0 +1,3 @@
+[submodule "hashcode_parser"]
+	path = hashcode_parser
+	url = git@github.com:Metastone/hashcode_parser.git
